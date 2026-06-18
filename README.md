@@ -1,49 +1,50 @@
-<h1 align="center">✦ J A C O B O  F O R E R O ✦</h1>
+<h1 align="center">Daniel Jacobo León Forero</h1>
+<h3 align="center">Desarrollador de Software | Especialista en TI</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER++;SYSTEMS+ENGINEER+&amp;+TI+SPECIALIST+;AUTOMATION+&amp;+CYBERSECURITY+" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Ubicación-Madrid,%20Colombia-ECEFF4?style=flat-square&logo=googlemaps&logoColor=red" alt="Ubicación" />
+  <a href="mailto:dani.jacobof06@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-ECEFF4?style=flat-square&logo=gmail&logoColor=D14836" alt="Email" /></a>
+  <a href="https://wa.me/573046844788"><img src="https://img.shields.io/badge/WhatsApp-Contactar-ECEFF4?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=soft&color=050510&secondaryColor=00F2FE&height=140&text=%20&animation=twinkle" width="100%" />
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="left" width="50%" valign="top">
-      <h3>⚡ CORE ARCHITECTURE</h3>
-      <p>Técnico en Desarrollo de Software enfocado en la construcción de ecosistemas web escalables, automatización de infraestructura crítica y hardening de seguridad informática corporativa.</p>
-      <p>🕹️ <b>Location:</b> Madrid, Cundinamarca, CO<br/>
-      🦾 <b>Status:</b> Open to Deep-Tech & Full-Stack Projects</p>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🛸 SYSTEM STATUS</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=jacobzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff" width="100%" alt="Stats"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 🎛️ TECH STACK matrix
+### 🚀 Perfil Profesional
+
+Técnico en Desarrollo de Software especializado en la creación de aplicaciones corporativas, diseño de páginas web y gestión de infraestructura tecnológica[cite: 1]. Enfocado en integrar soluciones eficientes y funcionales combinando desarrollo Full Stack y buenas prácticas de seguridad informática[cite: 1].
+
+---
+
+### 🛠️ Tecnologías y Herramientas
 
 <p align="center">
+  <!-- Utilizamos iconos limpios y uniformes para un look serio y corporativo -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,js,mysql,postgres,git,github,windows,powershell,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,flask,django,js,html,css,mysql,postgres,git,github,windows,powerbi" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
-### 💎 PRODUCTION REPOS
+### 💻 Proyectos Destacados
 
-```🔹 INVENTORY MANAGEMENT SYSTEM```
-> **Full-Stack Enterprise App** built for real-time stock orchestration, predictive analytics & supplier routing.
-> `Python` `Flask` `MySQL` `JavaScript`
+*   **📦 Sistema de Gestión de Inventarios:** Aplicación para administrar productos, ventas y stock en tiempo real[cite: 1].
+    *   *Stack:* `Python` • `Flask` • `MySQL` • `JavaScript`[cite: 1]
+*   **⚖️ [CriminalísticaOk](https://criminalisticaok.com/):** Plataforma web y de cursos profesionales con sistema de certificaciones digitales[cite: 1].
+    *   *Stack:* `HTML5` • `CSS3` • `JavaScript`[cite: 1]
+*   **🏢 [S&J Full Services](https://jacobzz.github.io/FS/):** Desarrollo institucional desde cero alineado a la identidad corporativa[cite: 1].
+    *   *Stack:* `HTML5` • `CSS3` • `JavaScript`[cite: 1]
+*   **📋 [D&C Standards](https://jacobzz.github.io/DCStandards/):** Sitio web corporativo enfocado en servicios institucionales y experiencia de usuario[cite: 1].
+    *   *Stack:* `HTML5` • `CSS3` • `JavaScript`[cite: 1]
 
+---
 
-http://googleusercontent.com/immersive_entry_chip/0
-http://googleusercontent.com/immersive_entry_chip/1
+### 📊 Estadísticas de GitHub
 
-Cuando lo pegues en GitHub y le des a *Preview*, vas a ver cómo se activan todas las animaciones, las letras tipo hacker y tus estadísticas en tiempo real. ¡Guárdalo (Commit changes) y listo! Tu perfil queda a otro nivel.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobzz&show_icons=true&theme=nord&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobzz&layout=compact&theme=nord&hide_border=true" width="45%" alt="Top Langs"/>
+</p>
+
+---
+<p align="center"><i>"Orientado a la creación de soluciones eficientes y funcionales en escenarios reales de negocio."</i></p>
