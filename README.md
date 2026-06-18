@@ -1,8 +1,9 @@
-# ¡Hola! Soy Jacobo Forero 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+# ¡Hola! Soy Jacobo Forero 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpsbXF6bXNnbW9wYXY0ZndwZnd5N3I3bTBmYW9mN3g0bW80b3B0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2UL0tAzfGc/giphy.gif" width="35px">
 ## Desarrollador de Software | Técnico en Sistemas
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Banner"/>
+  <!-- Banner Tech Minimalista y Moderno -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bDN3bWN5Ym50M29wZXR4eXZ6Z3U4YnJnaTZ6bTJ5ZmxmczBrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="650" alt="Coding Banner"/>
 </div>
 
 <br>
@@ -14,8 +15,8 @@
 ### 🚀 Sobre Mí
 
 - 🛠️ **Enfoque actual:** Desarrollo de aplicaciones web escalables con Python (Flask/Django) y JavaScript.
-- 🏢 **Experiencia:** Automatización de backups, bases de datos (PostgreSQL/MySQL) e implementación de infraestructuras corporativas (SharePoint/Windows Server).
-- 📈 **Metas:** Perfeccionando mi inglés técnico y explorando nuevas arquitecturas de software.
+- 🏢 **Experiencia:** Automatización de backups, bases de datos (PostgreSQL/MySQL) e implementación de infraestructuras corporativas (SharePoint/Windows Server)[cite: 1].
+- 📈 **Metas:** Perfeccionando mi inglés técnico y explorando nuevas arquitecturas de software[cite: 1].
 
 ---
 
@@ -50,31 +51,53 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="60%">
       <h4>📦 Sistema de Gestión de Inventarios</h4>
-      <p>Aplicación web comercial para administración de stock y ventas en tiempo real.</p>
-      <p><b>Tech Stack:</b> Python, Flask, MySQL, JS</p>
+      <p>Aplicación web corporativa para administración de stock, control de proveedores y reportes de ventas en tiempo real[cite: 1].</p>
+      <p><b>Tech Stack:</b> <code>Python</code>, <code>Flask</code>, <code>MySQL</code>, <code>JavaScript</code>[cite: 1]</p>
     </td>
-    <td width="50%">
+    <td width="40%">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcTdqZnd6cG8ybTVjMXJ5M3A3d2E1cmF0bTRnY2xlbmpycmkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw&amp;ct=g/3osyt4y0An1K0aGCFq/giphy.gif" width="220px" alt="Inventory GIF"/>
+        <!-- GIF de Líneas finas estilo Dashboard/Datos -->
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHc4cmJkZ3N5Zmt6ZnY0dG15ODhnbmRtNXhmczFqazhvdzEwbGtwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7E8lwXvCun75X1idvG/giphy.gif" width="160px" alt="Data Dashboard GIF"/>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="60%">
       <h4>⚖️ <a href="https://criminalisticaok.com/">CriminalísticaOk</a></h4>
-      <p>Plataforma e-learning y sistema automatizado de emisión de certificaciones digitales forenses.</p>
-      <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript</p>
+      <p>Ecosistema web e-learning con pasarela de acceso y sistema automatizado de certificaciones digitales forenses[cite: 1].</p>
+      <p><b>Tech Stack:</b> <code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>[cite: 1]</p>
     </td>
-    <td width="50%">
+    <td width="40%">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmsxbXl5NTAxdWszdzF4b214MWY2dWJocmsxMHBrZXd0Ynk3aGx2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26nhv3X90fQ0aM16M/giphy.gif" width="220px" alt="Education GIF"/>
+        <!-- GIF elegante de Educación / Seguridad / Documento -->
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtwdW1reTZidXdrYWJ5OXAwa2gxeXNscTZhczMyeHNqZzRtY2p5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sS1r4C2N6S8D9Lg62U/giphy.gif" width="160px" alt="Education/Security GIF"/>
       </div>
     </td>
   </tr>
 </table>
 
 ---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobzz&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobzz&layout=compact&theme=tokyonight" alt="Top Langs" width="43%"/>
+</p>
+
+---
+
+### 🤝 Conéctate conmigo
+
+<p align="left">
+  <a href="mailto:dani.jacobof06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dani.jacobof06%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/573046844788">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ⚡ *"El único modo de hacer un gran trabajo es amar lo que haces."*
