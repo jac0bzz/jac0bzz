@@ -8,13 +8,13 @@
 
 <br>
 
-¡Bienvenido a mi perfil de GitHub! Soy un **Técnico en Desarrollo de Software** enfocado en crear soluciones de software eficientes, optimizar la infraestructura de TI y garantizar la seguridad de la información. Mi experiencia abarca desde el desarrollo Full Stack (Python/Web) hasta la administración de redes y servidores corporativos.
+¡Bienvenido a mi perfil de GitHub! Soy un **Técnico en Desarrollo de Software** enfocado en crear soluciones de software eficientes, optimizar la infraestructura de TI y garantizar la seguridad de la información[cite: 1]. Mi experiencia abarca desde el desarrollo Full Stack (Python/Web) hasta la administración de redes y servidores corporativos[cite: 1].
 
 ---
 
 ### 🚀 Sobre Mí
 
-- 🛠️ **Enfoque actual:** Desarrollo de aplicaciones web escalables con Python (Flask/Django) y JavaScript.
+- 🛠️ **Enfoque actual:** Desarrollo de aplicaciones web escalables con Python (Flask/Django) y JavaScript[cite: 1].
 - 🏢 **Experiencia:** Automatización de backups, bases de datos (PostgreSQL/MySQL) e implementación de infraestructuras corporativas (SharePoint/Windows Server)[cite: 1].
 - 📈 **Metas:** Perfeccionando mi inglés técnico y explorando nuevas arquitecturas de software[cite: 1].
 
@@ -49,34 +49,23 @@
 
 ### 💻 Proyectos Destacados
 
-<table>
-  <tr>
-    <td width="60%">
-      <h4>📦 Sistema de Gestión de Inventarios</h4>
-      <p>Aplicación web corporativa para administración de stock, control de proveedores y reportes de ventas en tiempo real[cite: 1].</p>
-      <p><b>Tech Stack:</b> <code>Python</code>, <code>Flask</code>, <code>MySQL</code>, <code>JavaScript</code>[cite: 1]</p>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <!-- GIF de Líneas finas estilo Dashboard/Datos -->
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHc4cmJkZ3N5Zmt6ZnY0dG15ODhnbmRtNXhmczFqazhvdzEwbGtwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7E8lwXvCun75X1idvG/giphy.gif" width="160px" alt="Data Dashboard GIF"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="60%">
-      <h4>⚖️ <a href="https://criminalisticaok.com/">CriminalísticaOk</a></h4>
-      <p>Ecosistema web e-learning con pasarela de acceso y sistema automatizado de certificaciones digitales forenses[cite: 1].</p>
-      <p><b>Tech Stack:</b> <code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>[cite: 1]</p>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <!-- GIF elegante de Educación / Seguridad / Documento -->
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtwdW1reTZidXdrYWJ5OXAwa2gxeXNscTZhczMyeHNqZzRtY2p5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sS1r4C2N6S8D9Lg62U/giphy.gif" width="160px" alt="Education/Security GIF"/>
-      </div>
-    </td>
-  </tr>
-</table>
+#### 📦 Sistema de Gestión de Inventarios
+Aplicación web corporativa para la administración de productos, control de stock y ventas en tiempo real para tiendas de tecnología[cite: 1].
+- **Características:** Módulos de control de inventario, gestión de proveedores, generación de reportes dinámicos y seguimiento de ventas[cite: 1].
+- **Tech Stack:** `Python` • `Flask` • `MySQL` • `JavaScript` • `HTML5` • `CSS3`[cite: 1]
+
+#### ⚖️ [CriminalísticaOk — Plataforma Web y E-learning](https://criminalisticaok.com/)
+Diseño y desarrollo integral desde cero de una plataforma orientada a la oferta de certificaciones profesionales y cursos especializados en el área forense[cite: 1].
+- **Características:** Interfaz moderna y responsive, plataforma de cursos virtuales con pasarela de acceso y automatización de certificaciones digitales[cite: 1].
+- **Tech Stack:** `HTML5` • `CSS3` • `JavaScript`[cite: 1]
+
+#### 🏢 [S&J Full Services — Sitio Institucional](https://jacobzz.github.io/FS/)
+Desarrollo completo desde cero de la página web institucional, alineada estrictamente con la identidad corporativa digital de la empresa[cite: 1].
+- **Tech Stack:** `HTML5` • `CSS3` • `JavaScript`[cite: 1]
+
+#### 📋 [D&C Standards — Sitio Corporativo](https://jacobzz.github.io/DCStandards/)
+Diseño y desarrollo de sitio web enfocado en la presentación de servicios institucionales, priorizando la experiencia de usuario (UX) y una estética corporativa funcional[cite: 1].
+- **Tech Stack:** `HTML5` • `CSS3` • `JavaScript`[cite: 1]
 
 ---
 
