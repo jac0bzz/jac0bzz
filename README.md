@@ -3,8 +3,8 @@
 
   <h1>Jacobo Forero</h1>
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2500&pause=500&color=0B60B0&center=true&vCenter=true&width=600&lines=Tecnico+en+Desarrollo+de+Software;Especialista+en+Sistemas;Desarrollo+Web+Full+Stack" alt="Typing SVG" />
-  
+ <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2500&pause=500&color=0B60B0&center=true&vCenter=true&width=600&lines=Tecnico+en+Desarrollo+de+Software;Especialista+en+Sistemas;Desarrollo+Web+Full+Stack" alt="Typing SVG" />
+ 
   <br>
   
  </div>
