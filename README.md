@@ -1,40 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0B60B0&height=120&section=header" width="100%" alt="Banner" />
-
-  <h1>Jacobo Forero</h1>
-  
- <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2500&pause=500&color=0B60B0&center=true&vCenter=true&width=600&lines=Tecnico+en+Desarrollo+de+Software;Especialista+en+Sistemas;Desarrollo+Web+Full+Stack" alt="Typing SVG" />
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=F59E0B&center=true&vCenter=true&width=600&lines=Daniel+Jacobo+León+Forero;Desarrollador+Full+Stack;Especialista+en+Infraestructura+TI" alt="Typing SVG" />
   <br>
-  
- </div>
+  <a href="mailto:dani.jacobof06@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/573046844788"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Madrid,_Colombia-0A66C2?style=for-the-badge&logo=google-maps&logoColor=white" />
+</div>
 
 <br>
 
-<table align="center" width="100%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobzz&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobzz&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+<br>
+
+## 👨‍💻 Executive Summary
+> Técnico en Desarrollo de Software especializado en crear soluciones escalables y administrar infraestructura corporativa segura[cite: 1].
+
+- 🏢 **Rol Actual:** Asistente de Sistemas (S&J Full Services) & Dev Freelance[cite: 1].
+- 🛠️ **Foco Estratégico:** Backend (Python/Flask), BD relacionales y automatización[cite: 1].
+
+## 🚀 Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,django,js,html,css,mysql,postgres,git,windows,github,md&perline=12" />
+  </a>
+</div>
+
+<br>
+
+## 💼 Portafolio de Proyectos
+
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Sobre Mí</h3>
-      <p>Técnico en Desarrollo de Software con experiencia en el diseño, implementación y soporte de soluciones tecnológicas para entornos corporativos. Se destaca por su capacidad de análisis, adaptación a entornos dinámicos y creación de soluciones eficientes en escenarios reales de negocio.</p>
-      <p>💼 <b>Rol Actual:</b> Asistente de sistemas en S&J Full Services / Dev Freelance</p>
-      <p>🎯 <b>Enfoque:</b> Desarrollo web Full Stack (Python/Django/Flask) y gestión de infraestructura básica[cite: 1]</p>
+    <td width="50%" valign="top">
+      <h3>📦 Sistema de Inventarios</h3>
+      <p>App en tiempo real para control de stock, gestión de proveedores y seguimiento de ventas[cite: 1].</p>
+      <p><code>Python</code> <code>Flask</code> <code>MySQL</code> <code>JavaScript</code>[cite: 1]</p>
     </td>
-    <td width="45%" valign="top" align="center">
-      <h3>🛠️ Tech Stack</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,flask,django,js,html,css,mysql,postgres,git,windows,github&perline=4" alt="Skills" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://criminalisticaok.com/">CriminalísticaOk</a></h3>
+      <p>Plataforma e-learning moderna con pasarela de acceso y certificaciones digitales automatizadas[cite: 1].</p>
+      <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>[cite: 1]</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://jacobzz.github.io/FS/">S&J Full Services</a></h3>
+      <p>Desarrollo web institucional y construcción de la identidad corporativa digital de la empresa[cite: 1].</p>
+      <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>[cite: 1]</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://jacobzz.github.io/DCStandards/">D&C Standards</a></h3>
+      <p>Sitio corporativo de alto rendimiento centrado en la experiencia de usuario (UX) y servicios[cite: 1].</p>
+      <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>[cite: 1]</p>
     </td>
   </tr>
 </table>
-
-<br>
-
-<h3 align="center">💻 Proyectos Destacados</h3>
-
-| Proyecto | Descripción | Stack Tecnológico | Enlace |
-| :--- | :--- | :--- | :--- |
-| **📦 Sistema de Inventarios** | App para administrar productos, ventas y stock en tiempo real. | `Python` `Flask` `MySQL` `JS` | 🔒 Privado |
-| **⚖️ CriminalísticaOk** | Plataforma de cursos profesionales con sistema de certificaciones digitales. | `HTML` `CSS` `JS` | [Ver sitio](https://criminalisticaok.com/) |
-| **🏢 S&J Full Services** | Desarrollo institucional alineado con la identidad corporativa digital. | `HTML` `CSS` `JS` | [Ver sitio](https://jacobzz.github.io/FS/) |
-| **📋 D&C Standards** | Sitio corporativo enfocado en la presentación institucional y servicios. | `HTML` `CSS` `JS` | [Ver sitio](https://jacobzz.github.io/DCStandards/) |
