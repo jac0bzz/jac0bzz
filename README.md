@@ -1,59 +1,100 @@
-<h1 align="center">¡Bienvenido! Soy Jacobo Forero</h1>
-<h3 align="center">Desarrollador de Software</h3>
+# ¡Hola! Soy Daniel Jacobo León Forero 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+## Desarrollador de Software | Técnico en Sistemas
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Banner"/>
+</div>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+¡Bienvenido a mi perfil de GitHub! Soy un **Técnico en Desarrollo de Software** enfocado en crear soluciones de software eficientes, optimizar la infraestructura de TI y garantizar la seguridad de la información[cite: 1]. Mi experiencia abarca desde el desarrollo Full Stack (Python/Web) hasta la administración de redes y servidores corporativos[cite: 1].
 
+---
 
-- 🌱 Actualmente formo parte del área de sistemas en [Full Services](https://github.com/Full-Services), donde gestiono tareas operativas, soporte técnico y la implementación de mejoras relacionadas con tecnología y desarrollo. Paralelamente continúo fortaleciendo mis habilidades en programación y desarrollo web, con la intención de avanzar hacia el área de ciberseguridad.
+### 🚀 Sobre Mí
 
-<h3 align="left">Conéctate conmigo:</h3>
+- 🛠️ **Enfoque actual:** Desarrollo de aplicaciones web escalables con Python (Flask/Django) y JavaScript[cite: 1].
+- 🏢 **Experiencia:** Automatización de backups, bases de datos (PostgreSQL/MySQL) e implementación de infraestructuras corporativas (SharePoint/Windows Server)[cite: 1].
+- 📈 **Metas:** Perfeccionando mi inglés técnico y explorando nuevas arquitecturas de software[cite: 1].
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/dl-jacobo-forero?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LN-Jacobo" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/share/1ChAY1LFJo/?mibextid=wwXIfr" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="FB-Jacobo" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/share/1ChAY1LFJo/?mibextid=wwXIfr" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="GIT-Jacobo" height="30" width="40" />
-  </a>
- <a href="https://x.com/jac0bzz_?s=21" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="X-Jacobo" height="30" width="40" />
- </a>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <!-- BD y Análisis -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  
+  <!-- Infraestructura -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
+---
+
+### 💻 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📦 Sistema de Gestión de Inventarios</h4>
+      <p>Aplicación web comercial para administración de stock y ventas en tiempo real.</p>
+      <p><b>Tech Stack:</b> Python, Flask, MySQL, JS</p>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcTdqZnd6cG8ybTVjMXJ5M3A3d2E1cmF0bTRnY2xlbmpycmkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw&amp;ct=g/3osyt4y0An1K0aGCFq/giphy.gif" width="220px" alt="Inventory GIF"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>⚖️ <a href="https://criminalisticaok.com/">CriminalísticaOk</a></h4>
+      <p>Plataforma e-learning y sistema automatizado de emisión de certificaciones digitales forenses.</p>
+      <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript</p>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmsxbXl5NTAxdWszdzF4b214MWY2dWJocmsxMHBrZXd0Ynk3aGx2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26nhv3X90fQ0aM16M/giphy.gif" width="220px" alt="Education GIF"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobzz&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobzz&layout=compact&theme=tokyonight" alt="Top Langs" width="43%"/>
+</p>
+
+---
+
+### 🤝 Conéctate conmigo
+
+<p align="left">
+  <a href="mailto:dani.jacobof06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dani.jacobof06%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
+  <a href="https://wa.me/573046844788">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> 
-  </a>
+</p>
+
+⚡ *"El único modo de hacer un gran trabajo es amar lo que haces."*
