@@ -1,4 +1,4 @@
-# ¡Hola! Soy Daniel Jacobo León Forero 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+# ¡Hola! Soy Jacobo Forero 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
 ## Desarrollador de Software | Técnico en Sistemas
 
 <div align="center">
@@ -7,15 +7,15 @@
 
 <br>
 
-¡Bienvenido a mi perfil de GitHub! Soy un **Técnico en Desarrollo de Software** enfocado en crear soluciones de software eficientes, optimizar la infraestructura de TI y garantizar la seguridad de la información[cite: 1]. Mi experiencia abarca desde el desarrollo Full Stack (Python/Web) hasta la administración de redes y servidores corporativos[cite: 1].
+¡Bienvenido a mi perfil de GitHub! Soy un **Técnico en Desarrollo de Software** enfocado en crear soluciones de software eficientes, optimizar la infraestructura de TI y garantizar la seguridad de la información. Mi experiencia abarca desde el desarrollo Full Stack (Python/Web) hasta la administración de redes y servidores corporativos.
 
 ---
 
 ### 🚀 Sobre Mí
 
-- 🛠️ **Enfoque actual:** Desarrollo de aplicaciones web escalables con Python (Flask/Django) y JavaScript[cite: 1].
-- 🏢 **Experiencia:** Automatización de backups, bases de datos (PostgreSQL/MySQL) e implementación de infraestructuras corporativas (SharePoint/Windows Server)[cite: 1].
-- 📈 **Metas:** Perfeccionando mi inglés técnico y explorando nuevas arquitecturas de software[cite: 1].
+- 🛠️ **Enfoque actual:** Desarrollo de aplicaciones web escalables con Python (Flask/Django) y JavaScript.
+- 🏢 **Experiencia:** Automatización de backups, bases de datos (PostgreSQL/MySQL) e implementación de infraestructuras corporativas (SharePoint/Windows Server).
+- 📈 **Metas:** Perfeccionando mi inglés técnico y explorando nuevas arquitecturas de software.
 
 ---
 
@@ -76,25 +76,5 @@
 </table>
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobzz&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobzz&layout=compact&theme=tokyonight" alt="Top Langs" width="43%"/>
-</p>
-
----
-
-### 🤝 Conéctate conmigo
-
-<p align="left">
-  <a href="mailto:dani.jacobof06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dani.jacobof06%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/573046844788">
-    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
 
 ⚡ *"El único modo de hacer un gran trabajo es amar lo que haces."*
