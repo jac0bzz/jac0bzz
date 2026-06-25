@@ -1,4 +1,4 @@
-<h1 aling="center">─── JACOBO FORERO ─── </h1>
+<h1 align="center">─── JACOBO FORERO ─── </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=800&lines=HELLO_WORLD...;WELCOME_TO_MY_PROFILE;INITIALIZING_SYSTEM..._" alt="Typing SVG" />
